@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Iter","Lab","UniformLab"],"type":["Laba"]};
